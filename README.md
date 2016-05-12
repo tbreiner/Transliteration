@@ -18,6 +18,7 @@ Data: Download [wikipedia_names](http://www.clsp.jhu.edu/˜anni/data/wikipedia_n
 
 Joshua: 
 [Joshua’s web page](http://joshua.incubator.apache.org/)
+
 [Installation guide](http://joshua.incubator.apache.org/6.0/install.html)
 
 You will need to download the full model, not the runtime version, if you want to train your own models.
